@@ -1,1 +1,1 @@
-Algoritma Playlisti izlendi. Oradaki örneklerin benzerleri draw.io ile yapıldı.
+Algoritma Playlisti izlendi. Oradaki örneklerin benzerleri draw.io ile yapıldı ve ekran görüntüleri yüklendi.
