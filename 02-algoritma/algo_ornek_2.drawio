@@ -68,7 +68,7 @@
         <mxCell id="PwvAoZsE7PDIkdv7nKg4-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ACI3 =&amp;nbsp;&lt;div&gt;180-(X+Y)&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="90" x="385" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="PwvAoZsE7PDIkdv7nKg4-23" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&quot;2 AÇININ TOPLAMI 180&#39;i GEÇEMEZ. BAŞKA BİR NOT GİRİN.&quot;" vertex="1">
+        <mxCell id="PwvAoZsE7PDIkdv7nKg4-23" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&quot;2 AÇININ TOPLAMI 180&#39;i GEÇEMEZ. BAŞKA BİR AÇI GİRİN.&quot;" vertex="1">
           <mxGeometry height="90" width="120" x="560" y="340" as="geometry" />
         </mxCell>
         <mxCell id="PwvAoZsE7PDIkdv7nKg4-24" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&quot;AÇI 179DAN BÜYÜK OLAMAZ. YENİ BİR AÇI GİRİN.&quot;" vertex="1">
